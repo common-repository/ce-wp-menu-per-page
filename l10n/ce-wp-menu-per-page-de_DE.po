@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CE WP-Menu per Page v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-25 12:25:19+0000\n"
+"Last-Translator: ppfeufer <pp@codeenterprise.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "CE WP-Menu per Page"
+msgstr "CE WP-Menu per Page"
+
+#. translators: plugin header field 'PluginURI'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "http://ppfeufer.de/wordpress-plugin/ce-wp-menu-per-page/"
+msgstr "http://ppfeufer.de/wordpress-plugin/ce-wp-menu-per-page/"
+
+#. translators: plugin header field 'Description'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "This plugin allows you to select a menu on a per page basis."
+msgstr "Erlaubt die Gestaltung von eigenen Menü auf Seitenbasis. Erzeugt beim Erstellen und Bearbeiten einer Seite ein kleines Widget, mit dem das Menü für die Seite ausgewählt werden kann."
+
+#. translators: plugin header field 'Author'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "Codeenterprise (H.-Peter Pfeufer)"
+msgstr "Codeenterprise (H.-Peter Pfeufer)"
+
+#. translators: plugin header field 'AuthorURI'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "http://codeenterprise.de"
+msgstr "http://codeenterprise.de"
+
+#: ce-wp-menu-per-page.php:79
+#@ ce-wp-menu-per-page
+msgid "Select the menu for this page"
+msgstr "Menü wählen"
+
+#: ce-wp-menu-per-page.php:109
+#@ ce-wp-menu-per-page
+msgid "WordPress Default"
+msgstr "WordPress Standard"
+
+#: ce-wp-menu-per-page.php:114
+#@ ce-wp-menu-per-page
+msgid "Please select the menu which should be displayed on this page."
+msgstr "Bitte das Menü wählen, welches auf dieser Seite verwendet werden soll."
+
+#. translators: plugin header field 'Version'
+#: ce-wp-menu-per-page.php:0
+#@ ce-wp-menu-per-page
+msgid "1.1"
+msgstr ""
+
+#: ce-wp-menu-per-page.php:132
+#@ ce-wp-menu-per-page
+msgid "Please select the menu location, where your menu should appear"
+msgstr "Das verwendete Theme unterstützt mehrere Menüs. In welchem soll das Menü angezeigt werden?"
+
